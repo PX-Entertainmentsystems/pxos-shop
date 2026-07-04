@@ -1,0 +1,13 @@
+{
+  "os_name": "PXos XMB Pro",
+  "developer": "PX-Entertainmentsystems",
+  "shop_version": "1.0",
+  "catalog": [
+    {
+      "id": 1,
+      "title": "Pong Remake",
+      "version": "v1.0",
+      "download_url": "https://px-entertainmentsystems.github.io/pxos-shop/games/pong.bin",
+      "description": "Klassisches Pong fuer das 1024x768 Grafik-Layer."
+    }
+}
