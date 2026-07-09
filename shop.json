@@ -7,7 +7,8 @@
       "id": 1,
       "title": "Astro shooters",
       "version": "v1.0",
-      "download_url": "https://px-entertainmentsystems.github.io/pxos-shop/games/game.bin",
+      "download_url": "https://px-entertainmentsystems.github.io/pxos-shop/game.bin",
       "description": "Klassisches Pong fuer das 1024x768 Grafik-Layer."
     }
+  ]
 }
