@@ -5,7 +5,7 @@
   "catalog": [
     {
       "id": 1,
-      "title": "Pong Remake",
+      "title": "Astro shooters",
       "version": "v1.0",
       "download_url": "https://px-entertainmentsystems.github.io/pxos-shop/games/pong.bin",
       "description": "Klassisches Pong fuer das 1024x768 Grafik-Layer."
